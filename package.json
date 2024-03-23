@@ -1,0 +1,29 @@
+{
+  "name": "minimalaudantium",
+  "version": "1.12.3",
+  "description": "100% JS k-d tree. Port of kd-tree-javascript.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OraCartwright/minimalaudantium.git"
+  },
+  "keywords": [
+    "a",
+    "k-d",
+    "ut",
+    "geo",
+    "lat",
+    "rerum"
+  ],
+  "author": "IssacMayert",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/OraCartwright/minimalaudantium.git/issues"
+  },
+  "homepage": "https://github.com/OraCartwright/minimalaudantium.git",
+  "dependencies": {
+    "eligendiatque": "^1.0.0",
+    "etrecusandae": "^1.0.0"
+  }
+}
